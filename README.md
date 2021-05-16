@@ -1,5 +1,3 @@
-# new
-Assignment 01
 package demo
 
 object demo {
